@@ -1,1 +1,1 @@
-# egzam
+# praktinis-egzaminas
